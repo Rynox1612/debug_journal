@@ -17,7 +17,7 @@ Each issue is documented clearly with:
 | 🔎 Problem Summary | 📁 File Link |
 |--------------------|-------------|
 | Using 2 GitHub accounts on same device | [two acounts one deviece.md](/debug_journal/two%20account%20one%20device.md) |
-| Github commit with wrong account| [wrong-github-user-shown-in-commit.md](/debug_journal/wrong-github-user-shown-in-commit.md)
+| Github commit with wrong account| [wrong-github-user-shown-in-commit.md](wrong-github-user-shown-in-commit.md)|
 ---
 
 ## 🧠 Why This Repo?

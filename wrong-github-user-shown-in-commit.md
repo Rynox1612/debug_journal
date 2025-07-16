@@ -17,6 +17,7 @@ This issue occurred because Git was still using the **global config**, which had
 ```bash
 git config --global user.name
 git config --global user.email 
+```
 
 ---
 
@@ -28,7 +29,9 @@ In this case, it's safe to update the global Git config to reflect your identity
 ```bash
 - git config --global user.name "username_2"
 - git config --global user.email "user_2_email@example.com"
+```
 This will apply your Git identity across all repos by default.
+
 
 ---
 
@@ -40,6 +43,7 @@ In this case, it's better to apply a temporary fix inside the specific repositor
 
 git config user.name "username_2"
 git config user.email "user_2_email@example.com"
+```
 
 `To verify it worked:`
 
@@ -47,12 +51,14 @@ git config user.email "user_2_email@example.com"
 
 - git config user.name
 - git config user.email
+```
 - Now you can make a demo commit to confirm:
 
 ```bash
 
-- git commit --allow-empty -m "test commit"
+- git commit  -m "test commit"
 - git log --oneline --author="username_2"
+```
 
 ---
 ---
