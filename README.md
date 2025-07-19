@@ -16,9 +16,10 @@ Each issue is documented clearly with:
 
 | 🔎 Problem Summary | 📁 File Link |
 |--------------------|-------------|
-| Using 2 GitHub accounts on same device | [two acounts one deviece.md](/debug_journal/two%20account%20one%20device.md) |
+| Using 2 GitHub accounts on same device | [two acounts one deviece.md](./two%20account-one-device.md) |
 | Github commit with wrong account| [wrong-github-user-shown-in-commit.md](wrong-github-user-shown-in-commit.md)|
----
+|SSH key setup|[SSH-key-setup.md](./SSH-key-setup.md)|
+--- 
 
 ## 🧠 Why This Repo?
 
