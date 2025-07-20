@@ -18,7 +18,7 @@ Each issue is documented clearly with:
 |--------------------|-------------|
 | Using 2 GitHub accounts on same device | [two acounts one deviece.md](./two%20account-one-device.md) |
 | Github commit with wrong account| [wrong-github-user-shown-in-commit.md](wrong-github-user-shown-in-commit.md)|
-|SSH key setup|[SSH-key-setup.md](./SSH-key-setup.md)|
+|SSH key setup|[SSH-key-setup.md](https://github.com/Rynox1612/setup-vault/blob/main/SSH-key-setup/info.md)|
 --- 
 
 ## 🧠 Why This Repo?

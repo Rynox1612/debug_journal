@@ -40,7 +40,7 @@ Instead of relying on GitHub username/password or token (HTTP method), I adopted
     
 *   These keys are **mapped to specific GitHub accounts**, so Git knows who’s who.
     
-*   To setup SSH key refer:[SSH key setup](./SSH-key-setup.md).
+*   To setup SSH key refer:[SSH key setup](https://github.com/Rynox1612/setup-vault/blob/main/SSH-key-setup/info.md).
 
 ### 💡 Outcome:
 
